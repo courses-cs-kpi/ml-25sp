@@ -6,10 +6,10 @@ title: Вступ
 
 12 лют 
 : **Огляд**{: .label .label-blue}**Деталі курсу 👋**
-  : [[HML](https://ykochura.github.io/--/?p=course-details.md#1)][[PDF](https://ykochura.github.io/--/pdf/course-details.pdf)]
+  : [[HML](https://ykochura.github.io/ml-kpi/?p=details.md#1)][[PDF](https://ykochura.github.io/ml-kpi/pdf/details.pdf)]
 
 : **Лекція 1**{: .label .label-green } **Вступ до машинного навчання**
-  : [[HML](https://ykochura.github.io/--/?p=lecture1.md#1)][[PDF](https://ykochura.github.io/--/pdf/lecture1.pdf)]
+  : [[HML](https://ykochura.github.io/ml-kpi/?p=lecture1.md#1)][[PDF](https://ykochura.github.io/ml-kpi/pdf/lecture1.pdf)]
 
 <!-- 12 лют
 : **Лекція 2**{: .label .label-green } **Вступ до машинного навчання**
