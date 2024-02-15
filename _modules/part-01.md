@@ -2,14 +2,13 @@
 title: Вступ 
 ---
 
-#### Очікується
 
 12 лют 
 : **Огляд**{: .label .label-blue}**Деталі курсу 👋**
-  : [[HML](https://ykochura.github.io/ml-kpi/?p=details.md#1)][[PDF](https://ykochura.github.io/ml-kpi/pdf/details.pdf)]
+  : [[HML](https://ykochura.github.io/ml-kpi/?p=details.md#1)][[PDF](https://ykochura.github.io/ml-kpi/pdf/details.pdf)] [[VIDEO](https://youtu.be/EK1LidtrMGM)]
 
 : **Лекція 1**{: .label .label-green } **Вступ до машинного навчання**
-  : [[HML](https://ykochura.github.io/ml-kpi/?p=lecture1.md#1)][[PDF](https://ykochura.github.io/ml-kpi/pdf/lecture1.pdf)]
+  : [[HML](https://ykochura.github.io/ml-kpi/?p=lecture1.md#1)][[PDF](https://ykochura.github.io/ml-kpi/pdf/lecture1.pdf)] [[VIDEO](https://youtu.be/6udwdSeSd-s)]
 
 <!-- 12 лют
 : **Лекція 2**{: .label .label-green } **Вступ до машинного навчання**
