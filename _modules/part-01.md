@@ -17,7 +17,7 @@ title: Вступ
 #### Очікуються метеріали та запис
 21 лют
 : **Лекція 2**{: .label .label-green } **Cтатистичне навчання**
-  : [[HML](https://ykochura.github.io/ml-kpi/?p=lecture2.md#1)][[PDF](https://ykochura.github.io/ml-kpi/pdf/lecture1.pdf)]
+  : [[HML]()][[PDF]()]
 
 <!-- : **Книга 📚**{: .label .label-red}**Для читання**
   : [MLE Ch. 1, pp. 1-21](http://bit.ly/MLEbook-Chapter1) <br> [HPML Ch. 1, pp. 1-9](http://bit.ly/theMLbook-Chapter-1) -->
