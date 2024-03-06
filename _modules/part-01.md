@@ -14,10 +14,10 @@ title: Вступ
   : [[MLE Ch. 1, pp. 1-21](http://bit.ly/MLEbook-Chapter1)] <br> [[Numpy Handbook](https://ykochura.github.io/ml-kpi/tutor/Numpy Handbook.pdf)]
 
 
-#### Очікуються метеріали та запис
+#### Очікуються запис
 21 лют
 : **Лекція 2**{: .label .label-green } **Cтатистичне навчання**
-  : [[HML]()][[PDF]()]
+  : [[HML](https://ykochura.github.io/ml-kpi/?p=lecture2.md#1)][[PDF]((https://ykochura.github.io/ml-kpi/pdf/lecture2.pdf)] [[VIDEO]()]
 
 <!-- : **Книга 📚**{: .label .label-red}**Для читання**
   : [MLE Ch. 1, pp. 1-21](http://bit.ly/MLEbook-Chapter1) <br> [HPML Ch. 1, pp. 1-9](http://bit.ly/theMLbook-Chapter-1) -->
