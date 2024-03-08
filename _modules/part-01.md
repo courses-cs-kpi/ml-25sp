@@ -19,6 +19,12 @@ title: Вступ
 : **Лекція 2**{: .label .label-green } **Cтатистичне навчання**
   : [[HML](https://ykochura.github.io/ml-kpi/?p=lecture2.md#1)][[PDF](https://ykochura.github.io/ml-kpi/pdf/lecture2.pdf)] [[VIDEO]()]
 
+
+8 бер
+: **ПР #1**{: .label .label-purple} **Лiнiйна регресiя**
+  : [[Деталі](https://drive.google.com/drive/folders/1LQ_fEgMifoW3PxO54L2aJcrtdfxDM4By?usp=sharing)]
+: Дедлайн: 22 березня
+
 <!-- : **Книга 📚**{: .label .label-red}**Для читання**
   : [MLE Ch. 1, pp. 1-21](http://bit.ly/MLEbook-Chapter1) <br> [HPML Ch. 1, pp. 1-9](http://bit.ly/theMLbook-Chapter-1) -->
 
