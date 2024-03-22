@@ -32,4 +32,7 @@ title: Вступ
 
 12 бер
 : **Лекція 3**{: .label .label-green } **Розвідувальний аналіз даних з pandas**
-  : [[NOTEBOOK]()][[PDF]()] [[VIDEO]()]
+  : [[Демо](https://www.kaggle.com/code/kyuriy/pandas)] [[VIDEO]()]
+
+: **Матеріал**{: .label .label-red}**Для додаткового ознайомлення**
+  : [[Шпаргалка](https://colab.research.google.com/github/fralfaro/DS-Cheat-Sheets/blob/main/docs/examples/pandas/pandas.ipynb)] 
