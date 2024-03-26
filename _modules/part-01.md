@@ -28,11 +28,16 @@ title: Вступ
   : [MLE Ch. 1, pp. 1-21](http://bit.ly/MLEbook-Chapter1) <br> [HPML Ch. 1, pp. 1-9](http://bit.ly/theMLbook-Chapter-1) -->
 
 
-#### Очікуються матеріали та запис лекції
-
 12 бер
 : **Лекція 3**{: .label .label-green } **Розвідувальний аналіз даних з pandas**
-  : [[Демо](https://www.kaggle.com/code/kyuriy/pandas)] [[VIDEO]()]
+  : [[Демо](https://www.kaggle.com/code/kyuriy/pandas)] [[VIDEO](https://youtu.be/OmxMWNXWjQA)]
 
 : **Матеріал**{: .label .label-red}**Для додаткового ознайомлення**
   : [[Шпаргалка](https://colab.research.google.com/github/fralfaro/DS-Cheat-Sheets/blob/main/docs/examples/pandas/pandas.ipynb)] 
+
+
+#### Очікуються матеріали та запис лекції
+
+26 бер
+: **Лекція 4**{: .label .label-green } **Візуальний аналіз даних**
+  : [[Демо]()] [[VIDEO]()]
