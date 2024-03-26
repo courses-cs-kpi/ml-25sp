@@ -24,9 +24,6 @@ title: Вступ
   : [[Деталі](https://drive.google.com/drive/folders/1LQ_fEgMifoW3PxO54L2aJcrtdfxDM4By?usp=sharing)]
 : Дедлайн: 22 березня
 
-<!-- : **Книга 📚**{: .label .label-red}**Для читання**
-  : [MLE Ch. 1, pp. 1-21](http://bit.ly/MLEbook-Chapter1) <br> [HPML Ch. 1, pp. 1-9](http://bit.ly/theMLbook-Chapter-1) -->
-
 
 12 бер
 : **Лекція 3**{: .label .label-green } **Розвідувальний аналіз даних з pandas**
