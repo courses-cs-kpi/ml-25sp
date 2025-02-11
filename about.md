@@ -26,9 +26,10 @@ nav_order: 1
 - **Програмування**: написання коду на Python.
 
 Підручники
-: 1.  Andriy Burkov (2020). [*Machine Learning Engineering*](http://www.mlebook.com/wiki/doku.php?id=start). (MLE)
+: 1. Кочура Ю. П., Гордієнко Ю. Г. (2024). [*Нейронні мережі*](https://github.com/dml-book/dml/releases/download/v0.1.10/0.1.10-final.pdf).
+1.  Andriy Burkov (2020). [*Machine Learning Engineering*](http://www.mlebook.com/wiki/doku.php?id=start). (MLE)
 1. Andriy Burkov (2019). [*The Hundred-Page Machine Learning Book*](http://themlbook.com/wiki/doku.php). (HPML)
-1. Кочура Ю. П., Гордієнко Ю. Г. (2024). [*Машинне навчання*](https://github.com/dml-book/dml/releases/download/v0.1.7/main.pdf).
+
 
 
 ## На випадок повітряної тривоги
