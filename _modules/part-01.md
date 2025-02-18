@@ -14,11 +14,11 @@ title: Вступ
   : [[MLE Ch. 1, pp. 1-21](http://bit.ly/MLEbook-Chapter1)] <br> [[Numpy Handbook](https://ykochura.github.io/ml-kpi/tutor/Numpy Handbook.pdf)]
 
 
-<!-- 21 лют
+19 лют
 : **Лекція 2**{: .label .label-green } **Cтатистичне навчання**
-  : [[HML](https://ykochura.github.io/ml-kpi/?p=lecture2.md#1)][[PDF](https://ykochura.github.io/ml-kpi/pdf/lecture2.pdf)] [[ВІДЕО](https://youtu.be/_LDRSPLwOb8)]
+  : [[HML](https://ykochura.github.io/ml-kpi/?p=lecture2.md#1)][[PDF](https://ykochura.github.io/ml-kpi/pdf/lecture2.pdf)] 
 
-
+<!--
 8 бер
 : **ПР #1**{: .label .label-purple} **Лiнiйна регресiя**
   : [[Деталі](https://drive.google.com/drive/folders/1LQ_fEgMifoW3PxO54L2aJcrtdfxDM4By?usp=sharing)]
@@ -38,4 +38,5 @@ title: Вступ
 26 бер
 : **Лекція 4**{: .label .label-green } **Візуальний аналіз даних**
   : [[Демо]()] [[ВІДЕО]()]
+  [[ВІДЕО](https://youtu.be/_LDRSPLwOb8)]
  -->
