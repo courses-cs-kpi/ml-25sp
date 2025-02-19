@@ -15,12 +15,12 @@ title: Вступ
 
 
 19 лют
-: **Лекція 2**{: .label .label-green } **Cтатистичне навчання**
+: **Лекція 2**{: .label .label-green } **Cтатистичне навчання**  
   : [[HML](https://ykochura.github.io/ml-kpi/?p=lecture2.md#1)][[PDF](https://ykochura.github.io/ml-kpi/pdf/lecture2.pdf)] 
 
-: **ПР #1**{: .label .label-purple} **Лiнiйна регресiя**
-  : [[Деталі](https://drive.google.com/file/d/17rqnKTbh6SOar-CVdyBYL4Xy6RsLuNwR/view?usp=sharing)]
-: Дедлайн: 02 березня
+: **ПР #1**{: .label .label-purple} **Лiнiйна регресiя** 
+  : [[Деталі](https://drive.google.com/file/d/17rqnKTbh6SOar-CVdyBYL4Xy6RsLuNwR/view?usp=sharing)] 
+    : **Дедлайн**:  02 березня
 
 <!--
 12 бер
