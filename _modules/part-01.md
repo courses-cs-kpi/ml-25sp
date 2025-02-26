@@ -22,15 +22,14 @@ title: Вступ
   : [[Деталі](https://drive.google.com/file/d/17rqnKTbh6SOar-CVdyBYL4Xy6RsLuNwR/view?usp=sharing)] 
     : **Дедлайн**:  02 березня
 
-<!--
-12 бер
+26 лют
 : **Лекція 3**{: .label .label-green } **Розвідувальний аналіз даних з pandas**
   : [[Демо](https://www.kaggle.com/code/kyuriy/pandas)] [[ВІДЕО](https://youtu.be/OmxMWNXWjQA)]
 
 : **Матеріал**{: .label .label-red}**Для додаткового ознайомлення**
   : [[Шпаргалка](https://colab.research.google.com/github/fralfaro/DS-Cheat-Sheets/blob/main/docs/examples/pandas/pandas.ipynb)] 
 
-
+<!--
 #### Очікуються матеріали та запис лекції
 
 26 бер
