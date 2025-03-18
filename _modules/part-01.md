@@ -29,6 +29,10 @@ title: Вступ
 : **Матеріал**{: .label .label-red}**Для додаткового ознайомлення**
   : [[Шпаргалка](https://colab.research.google.com/github/fralfaro/DS-Cheat-Sheets/blob/main/docs/examples/pandas/pandas.ipynb)] 
 
+18 бер
+: **Лекція 4**{: .label .label-green } **Візуальний аналіз даних**
+  : [[Демо](https://www.kaggle.com/code/kyuriy/12345)] 
+
 <!--
 #### Очікуються матеріали та запис лекції
 
