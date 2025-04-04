@@ -33,6 +33,11 @@ title: Вступ
 : **Лекція 4**{: .label .label-green } **Візуальний аналіз даних**
   : [[Демо](https://www.kaggle.com/code/kyuriy/12345)] 
 
+08 кві
+: **Лекція 5**{: .label .label-green } **Метод найближчих сусідів**  
+  : [[HML](https://ykochura.github.io/ml-kpi/?p=lecture5.md#1)][[PDF](https://ykochura.github.io/ml-kpi/pdf/lecture5.pdf)] 
+
+
 <!--
 #### Очікуються матеріали та запис лекції
 
