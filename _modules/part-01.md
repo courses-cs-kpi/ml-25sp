@@ -41,6 +41,10 @@ title: Вступ
   : [[Деталі](https://drive.google.com/file/d/1rudfsCq7LQg-fdwykl4b08otDLmYN3lx/view?usp=sharing)] 
     : **Дедлайн**:  26 квітня
 
+07 тра
+: **Туторіал**{: .label .label-red}**Метод опорних векторів**
+  : [[ipynb](https://colab.research.google.com/github/support_vector_machines.ipynb)] 
+
 
 <!--
 #### Очікуються матеріали та запис лекції
