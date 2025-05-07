@@ -43,7 +43,7 @@ title: Вступ
 
 07 тра
 : **Туторіал**{: .label .label-red}**Метод опорних векторів**
-  : [[ipynb](https://colab.research.google.com/github/support_vector_machines.ipynb)] 
+  : [[ipynb](https://colab.research.google.com/github/YKochura/ml-kpi/blob/main/tutor/support_vector_machines.ipynb)] 
 
 
 <!--
