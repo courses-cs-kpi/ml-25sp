@@ -43,7 +43,11 @@ title: Вступ
 
 07 тра
 : **Туторіал**{: .label .label-red}**Метод опорних векторів**
-  : [[ipynb](https://colab.research.google.com/github/YKochura/ml-kpi/blob/main/tutor/support_vector_machines.ipynb)] 
+  : [[ipynb](https://colab.research.google.com/github/YKochura/ml-kpi/blob/main/tutor/support_vector_machines.ipynb)]
+
+: **ПР #3**{: .label .label-purple} **Метод опорних векторiв** 
+  : [[Деталі](https://drive.google.com/file/d/1yXXFUSBJ8-9i-7rCd7b-SLfHsaZS6ORP/view?usp=sharing)] 
+    : **Дедлайн**:  24 травня 
 
 
 <!--
